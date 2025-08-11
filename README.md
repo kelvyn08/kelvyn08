@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Kelvyn Schimith, tenho 21 anos e sou natural do Brasil. Atualmente, estou cursando Engenharia de Software na Estácio. Sou apaixonado por tecnologia e estou sempre buscando aprender mais. Tenho um conhecimento sólido em Python e um pouco de JavaScript, além de experiência em Linux e cibersegurança.
-
+Sou um estudante de 21 anos de Engenharia de Software na Estácio, com foco em desenvolvimento back-end em Python e conhecimentos em JavaScript, HTML5 e CSS3. Tenho experiência em ambientes Linux e cibersegurança, além de habilidades em diagnóstico e reparo técnico de sistemas. Busco constantemente aprimorar minhas habilidades e contribuir para soluções tecnológicas eficientes e seguras. 
 <p>
     <a href="https://github.com/kelvyn08?tab=followers">
         <img 
@@ -98,22 +97,23 @@ Me chamo Kelvyn Schimith, tenho 21 anos e sou natural do Brasil. Atualmente, est
 
 ### 📊 Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=kelvyn08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />  
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvyn08&layout=compact&theme=tokyonight&locale=pt-br" 
-  />
+<div align="left">
+  <div style="display: flex; gap: 20px;">
+    <img 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=kelvyn08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />  
+    <img 
+      alt="Top Langs" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvyn08&layout=compact&theme=tokyonight&locale=pt-br" 
+    />
+  </div>
+  <div style="margin-top: 10px; text-align: left;">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </div>
 </div>
-<div align="center" style="margin-top: 10px;">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
