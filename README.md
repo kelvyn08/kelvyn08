@@ -2,23 +2,33 @@
 
 **`Desenvolvedor Back-End`**
 
-Sou um estudante de 21 anos de Engenharia de Software na Estácio, com foco em desenvolvimento back-end em Python e conhecimentos em JavaScript, HTML5 e CSS3. Tenho experiência em ambientes Linux e cibersegurança, além de habilidades em diagnóstico e reparo técnico de sistemas. Busco constantemente aprimorar minhas habilidades e contribuir para soluções tecnológicas eficientes e seguras. 
+Sou estudante de Engenharia de Software na Estácio, com 21 anos e foco em desenvolvimento back-end, principalmente em Python. Tenho experiência em ambientes Linux, cibersegurança e diagnóstico técnico de sistemas. Sou dedicado a aprimorar minhas habilidades para entregar soluções tecnológicas eficientes, seguras e escaláveis. (https://github.com/user-attachments/files/21721743/Kelvyn.Schimith.pdf)
+
 <p>
-    <a href="https://github.com/kelvyn08?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/kelvyn08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/kelvyn-schimith" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+   <p>
+  <a href="https://github.com/kelvyn08?tab=followers" target="_blank">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/kelvyn08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/kelvyn-schimith" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Meu LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://wa.me/5527981378497" target="_blank">
+    <img 
+      alt="WhatsApp" 
+      title="Meu WhatsApp" 
+      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    />
+  </a>
 </p>
+
 
 
 ---
