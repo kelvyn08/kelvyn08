@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Sou estudante de Engenharia de Software na Estácio, com 21 anos e foco em desenvolvimento back-end, principalmente em Python. Tenho experiência em ambientes Linux, cibersegurança e diagnóstico técnico de sistemas. Sou dedicado a aprimorar minhas habilidades para entregar soluções tecnológicas eficientes, seguras e escaláveis. (file:///home/kelvyn/Downloads/kelvyn.schimith%20(1).pdf)
+Sou estudante de Engenharia de Software na Estácio, com 21 anos e foco em desenvolvimento back-end, principalmente em Python. Tenho experiência em ambientes Linux, cibersegurança e diagnóstico técnico de sistemas. Sou dedicado a aprimorar minhas habilidades para entregar soluções tecnológicas eficientes, seguras e escaláveis. (https://docs.google.com/document/d/1E5jEabfI_LKK30NyzvbgQVjw37z6l0gCcuSuIpzuR2c/edit?tab=t.0)
 
 <p>
    <p>
